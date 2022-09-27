@@ -23,7 +23,6 @@ namespace CapaVista
 
         public void limpiar()
         {
-            txtIDcontrato.Text = "";
             txttipoContrato.Text = "";
         }
 
@@ -53,7 +52,7 @@ namespace CapaVista
 
         private void btnIngresar_Click(object sender, EventArgs e)
         {
-            TextBox[] textbox = { txtIDcontrato, txttipoContrato };
+            TextBox[] textbox = {txttipoContrato };
             cn.ingresar(textbox, table);
             string message = "Registro Guardado";
             Actualizar();
@@ -102,8 +101,8 @@ namespace CapaVista
 
         private void btnmod_Click(object sender, EventArgs e)
         {
-            TextBox[] textbox = { txtIDcontrato, txttipoContrato };
-            int valor1 = int.Parse(txtBusacar.Text);
+            TextBox[] textbox = {txttipoContrato };
+            int valor1 = int.Parse(txtBuscar.Text);
             string campo = "IDcontrato = ";
             cn.actualizar(textbox, table, campo, valor1);
             IngresarData();

@@ -39,7 +39,7 @@ namespace CapaVista
             this.label12 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.button1 = new System.Windows.Forms.Button();
-            this.txtBusacar = new System.Windows.Forms.TextBox();
+            this.txtBuscar = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.listContratos = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
@@ -129,7 +129,7 @@ namespace CapaVista
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.button1);
-            this.groupBox1.Controls.Add(this.txtBusacar);
+            this.groupBox1.Controls.Add(this.txtBuscar);
             this.groupBox1.Controls.Add(this.label8);
             this.groupBox1.Location = new System.Drawing.Point(24, 64);
             this.groupBox1.Name = "groupBox1";
@@ -147,12 +147,12 @@ namespace CapaVista
             this.button1.Text = "Buscar";
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // txtBusacar
+            // txtBuscar
             // 
-            this.txtBusacar.Location = new System.Drawing.Point(110, 33);
-            this.txtBusacar.Name = "txtBusacar";
-            this.txtBusacar.Size = new System.Drawing.Size(260, 20);
-            this.txtBusacar.TabIndex = 1;
+            this.txtBuscar.Location = new System.Drawing.Point(110, 33);
+            this.txtBuscar.Name = "txtBuscar";
+            this.txtBuscar.Size = new System.Drawing.Size(260, 20);
+            this.txtBuscar.TabIndex = 1;
             // 
             // label8
             // 
@@ -216,7 +216,7 @@ namespace CapaVista
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox txtBusacar;
+        private System.Windows.Forms.TextBox txtBuscar;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.DataGridView listContratos;
         private System.Windows.Forms.Label label1;
