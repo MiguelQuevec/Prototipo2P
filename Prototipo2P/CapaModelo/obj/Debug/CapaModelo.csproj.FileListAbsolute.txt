@@ -1,0 +1,6 @@
+C:\Users\Edgar Espinoza\source\repos\Prototipo2P\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Edgar Espinoza\source\repos\Prototipo2P\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Edgar Espinoza\source\repos\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Edgar Espinoza\source\repos\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Edgar Espinoza\source\repos\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Edgar Espinoza\source\repos\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.pdb
